@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Frontend Developer passionate about creating fast, responsive, and user-friendly web experiences.<br><br>⚡ Building with HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript, React.js, and Next.js.<br><br>🌱 Currently learning advanced frontend concepts, <b>improving problem-solving skills</b>.<br><br>🎯 Aspiring to become a skilled Frontend Engineer and contribute to impactful products through continuous learning and development.<br><br>💡 I enjoy turning ideas into interactive web applications and writing clean, maintainable code.
+Frontend Developer passionate about creating fast, responsive, and user-friendly web experiences.<br><br>⚡ Building with HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript, React.js, and Next.js.<br><br>🌱 Currently learning advanced frontend concepts, <b>improving problem-solving skills</b>.<br><br>🎯 Aspiring to become a skilled Fullstack Developer and contribute to impactful products through continuous learning and development.<br><br>💡 I enjoy turning ideas into interactive web applications and writing clean, maintainable code.
 
 ## 🌐 Socials:
 
