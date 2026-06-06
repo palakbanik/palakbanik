@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Frontend Developer passionate about creating fast, responsive, and user-friendly web experiences.<br><br>⚡ Building with HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript, React.js, and Next.js.<br><br>🌱 Currently learning advanced frontend concepts, <b>improving problem-solving skills</b>, and building real-world projects.<br><br>🎯 Aspiring to become a skilled Frontend Engineer and contribute to impactful products through continuous learning and development.<br><br>💡 I enjoy turning ideas into interactive web applications and writing clean, maintainable code.
+Frontend Developer passionate about creating fast, responsive, and user-friendly web experiences.<br><br>⚡ Building with HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript, React.js, and Next.js.<br><br>🌱 Currently learning advanced frontend concepts, <b>improving problem-solving skills</b>.<br><br>🎯 Aspiring to become a skilled Frontend Engineer and contribute to impactful products through continuous learning and development.<br><br>💡 I enjoy turning ideas into interactive web applications and writing clean, maintainable code.
 
 ## 🌐 Socials:
 
@@ -16,12 +16,3 @@ Frontend Developer passionate about creating fast, responsive, and user-friendly
 ![](https://streak-stats.demolab.com/?user=palakbanik&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=palakbanik&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=palakbanik&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-[![](https://komarev.com/ghpvc/?username=palakbanik&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
