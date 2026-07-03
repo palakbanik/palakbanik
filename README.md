@@ -3,7 +3,7 @@
 Frontend Developer passionate about creating fast, responsive, and user-friendly web experiences.<br><br>
 ⚡ Building with React.js, Next.js, TypeScript, HTML, CSS, Tailwind CSS, Bootstrap, JavaScript.<br><br>
 🧩 Working with React Context API for state management and building reusable component-based applications.<br><br>
-🌱 Currently learning advanced frontend concepts and improving problem-solving skills.<br><br
+🌱 Currently learning advanced frontend concepts and improving problem-solving skills.<br><br>
 🎯 Aspiring to become a skilled Fullstack Developer and contribute to impactful products through continuous learning and development.<br><br>
 💡 I enjoy turning ideas into interactive web applications and writing clean, maintainable code.
 
