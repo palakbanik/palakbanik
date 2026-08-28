@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h1 style="text-align: center">Hi 👋, This is Palak Banik</h1>
 
 Frontend Developer passionate about creating fast, responsive, and user-friendly web experiences.<br><br>
 ⚡ Building with React.js, Next.js, TypeScript, HTML, CSS, Tailwind CSS, Bootstrap, JavaScript.<br><br>
