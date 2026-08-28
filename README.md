@@ -1,4 +1,4 @@
-<img width="480" height="396" alt="image" src="https://github.com/user-attachments/assets/cd48ab97-91db-4a74-8988-0230688f9c05" /><img width="480" height="396" alt="image" src="https://github.com/user-attachments/assets/6f6a4052-ebb9-4a04-a951-77bf8b43a7c5" /><h1 align="center">Hi 👋, I'm Palak Banik</h1>
+<h1 align="center">Hi 👋, I'm Palak Banik</h1>
 
 <h3 align="center">Full-Stack Developer | MERN Stack Developer</h3>
 
@@ -54,11 +54,7 @@
 
 <td width="40%" align="center">
 
-<img 
-src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNkbHVrNnRjaG9hNHVmcGNxbDdibHRiaHViOHV5NG5kMGw3bjhsaCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/M9kgjEsLG6LMbYC9dl/200.webp"
-width="350"
-alt="Coding Animation"
-/>
+<img width="350" alt="Coding Animation" src="https://github.com/user-attachments/assets/6f6a4052-ebb9-4a04-a951-77bf8b43a7c5" />
 
 </td>
 </tr>
