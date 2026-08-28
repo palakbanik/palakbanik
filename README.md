@@ -47,7 +47,7 @@
 <h3>Tools & Platforms</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,npm,pnpm,yarn,bun,postman,figma,xd,notion,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,npm,pnpm,yarn,bun,postman,figma,xd" />
 </p>
 
 </td>
