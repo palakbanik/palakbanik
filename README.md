@@ -35,7 +35,7 @@
 <h3>Frontend</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,sass,bootstrap,html,css" />
 </p>
 
 <h3>Backend & Database</h3>
@@ -48,6 +48,7 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,npm,pnpm,yarn,bun,postman,vite,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,npm,pnpm,yarn,bun,postman,vite,figma,xd,vite,npm,yarn,notion,vscode,gsa" />
 </p>
 
 </td>
