@@ -54,7 +54,7 @@
 
 <td width="40%" align="center">
 
-<img width="350" alt="Coding Animation" src="https://github.com/user-attachments/assets/6f6a4052-ebb9-4a04-a951-77bf8b43a7c5" />
+<img width="350" alt="Coding Animation" src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif" />
 
 </td>
 </tr>
