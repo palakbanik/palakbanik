@@ -48,7 +48,7 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,npm,pnpm,yarn,bun,postman,vite,figma" />
-  <img src="https://skillicons.dev/icons?i=git,github,npm,pnpm,yarn,bun,postman,vite,figma,xd,vite,npm,yarn,notion,vscode,gsa" />
+  <img src="https://skillicons.dev/icons?i=git,github,npm,pnpm,yarn,bun,postman,figma,xd,notion,vscode" />
 </p>
 
 </td>
