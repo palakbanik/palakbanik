@@ -55,7 +55,7 @@
 <td width="40%" align="center">
 
 <img 
-src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
+src="[https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnQ1aG43Ymd2dGJhdzk1YmVraTAxYWpqMWN3cmZncXk4Z3ltbXpyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif)"
 width="350"
 alt="Coding Animation"
 />
